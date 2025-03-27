@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePaint", "ConsolePaint\ConsolePaint.csproj", "{A63A4DED-AABE-41C5-AC12-9303AC831294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePaint.Tests", "ConsolePaint.Tests\ConsolePaint.Tests.csproj", "{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63A4DED-AABE-41C5-AC12-9303AC831294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63A4DED-AABE-41C5-AC12-9303AC831294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63A4DED-AABE-41C5-AC12-9303AC831294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63A4DED-AABE-41C5-AC12-9303AC831294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
