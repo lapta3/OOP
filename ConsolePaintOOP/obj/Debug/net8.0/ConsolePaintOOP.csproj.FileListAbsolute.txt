@@ -1,0 +1,15 @@
+C:\ConsolePaintOOP\ConsolePaintOOP\bin\Debug\net8.0\ConsolePaintOOP.exe
+C:\ConsolePaintOOP\ConsolePaintOOP\bin\Debug\net8.0\ConsolePaintOOP.deps.json
+C:\ConsolePaintOOP\ConsolePaintOOP\bin\Debug\net8.0\ConsolePaintOOP.runtimeconfig.json
+C:\ConsolePaintOOP\ConsolePaintOOP\bin\Debug\net8.0\ConsolePaintOOP.dll
+C:\ConsolePaintOOP\ConsolePaintOOP\bin\Debug\net8.0\ConsolePaintOOP.pdb
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.AssemblyInfoInputs.cache
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.AssemblyInfo.cs
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.csproj.CoreCompileInputs.cache
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.sourcelink.json
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.dll
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\refint\ConsolePaintOOP.dll
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.pdb
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ConsolePaintOOP.genruntimeconfig.cache
+C:\ConsolePaintOOP\ConsolePaintOOP\obj\Debug\net8.0\ref\ConsolePaintOOP.dll
